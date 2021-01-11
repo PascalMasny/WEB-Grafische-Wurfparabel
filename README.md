@@ -5,3 +5,6 @@ Eine PHP/Python basierte Websiter Wurfparabelrechner
 - PHP
 - Python3
 - Gnupolt
+
+# Weboberfläche: 
+![image](img.png)
